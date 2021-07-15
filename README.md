@@ -1,3 +1,6 @@
 # microsservices-config
 
-configuration use sprin cloude microsservices spring cloud 
+configuration use spring cloud
+
+microsservices spring cloud 
+
